@@ -6,4 +6,4 @@
 	url = https://github.com/XmanAZC/u-boot.git
 [submodule "kernel"]
 	path = kernel
-	url = https://github.com/orangepi-xunlong/linux-orangepi.git
+	url = https://github.com/XmanAZC/linux-orangepi.git

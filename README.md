@@ -31,4 +31,4 @@ mv rk3588_loader_v1.24.100.bin ../
 使用 GitHub上预发布的v2027.01-rc2，基于这个tag会有些更改。
 
 ## kernel
-使用`https://github.com/orangepi-xunlong/linux-orangepi.git`中的`f046287`提交。
+基于`https://github.com/orangepi-xunlong/linux-orangepi.git`中的`f046287`提交，可能会做些更改。
