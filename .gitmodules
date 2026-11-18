@@ -1,3 +1,6 @@
 [submodule "rkbin"]
 	path = rkbin
 	url = https://github.com/rockchip-linux/rkbin.git
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/XmanAZC/u-boot.git
