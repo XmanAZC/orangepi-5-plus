@@ -1,5 +1,5 @@
 ---
-这是一个orangepi-5-plus从零到一的实现项目，项目聚焦于从bootrom到rootfs再到ROS2。
+基于orangepi-5-plus开发板，项目聚焦于从bootrom到rootfs再到ROS2。
 ---
 
 ## 编译
@@ -29,3 +29,6 @@ mv rk3588_loader_v1.24.100.bin ../
 
 ## u-boot
 使用 GitHub上预发布的v2027.01-rc2，基于这个tag会有些更改。
+
+## kernel
+使用`https://github.com/orangepi-xunlong/linux-orangepi.git`中的`f046287`提交。
